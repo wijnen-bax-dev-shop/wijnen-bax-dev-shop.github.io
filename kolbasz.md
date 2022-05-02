@@ -3,15 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+permalink: /kolbasz/
 ---
-## Welkom op de webshop van Hungarian Wines Bax.  
+# Kolbasz
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
 
-### Maak een keuze uit onze geselecteerde wijnhuizen:
-
-[![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)
-- [Wijnhuis 2](/wijnhuis2/)
-- [Wijnhuis 3](/wijnhuis3/)
-<br/>
-<br/>
-### Of proef onze heerlijke [Kolbasz](/kolbasz)
+{% for product in site.kolbasz %}
+  {% include product.html %}
+{% endfor %}
