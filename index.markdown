@@ -10,8 +10,7 @@ layout: default
 ### Maak een keuze uit onze geselecteerde wijnhuizen:
 
 [![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)
-- [Wijnhuis 2](/wijnhuis2/)
-- [Wijnhuis 3](/wijnhuis3/)
-<br/>
-<br/>
+[Wijnhuis 2](/wijnhuis2/)
+[Wijnhuis 3](/wijnhuis3/)
+
 ### Of proef onze heerlijke [Kolbasz](/kolbasz)
