@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /wijnhuizen/
+permalink: /bolyki/
 ---
 ## Bolyki  
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
