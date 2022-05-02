@@ -1,5 +1,5 @@
 ---
-identifier: Bolyki16
+identifier: Bolyki01
 name: King's Daughter of Eger - 2019
 price: 7.5
 image: /assets/images/bolyki01.png
