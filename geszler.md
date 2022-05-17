@@ -5,7 +5,7 @@
 layout: default
 permalink: /geszler/
 ---
-[![Geszler](/images/features/Geszler.png)]
+![Geszler](/images/features/Geszler.png)
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
 
 {% for product in site.geszler %}

@@ -5,7 +5,7 @@
 layout: default
 permalink: /kokeny/
 ---
-[![Kokeny](/images/features/Kokeny.png)]
+![Kokeny](/images/features/Kokeny.png)
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
 
 {% for product in site.kokeny %}
