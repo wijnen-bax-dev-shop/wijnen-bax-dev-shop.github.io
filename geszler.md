@@ -8,6 +8,6 @@ permalink: /geszler/
 [![Geszler](/images/features/Geszler.png)]
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
 
-{% for product in site.bolyki %}
+{% for product in site.geszler %}
   {% include product.html %}
 {% endfor %}
