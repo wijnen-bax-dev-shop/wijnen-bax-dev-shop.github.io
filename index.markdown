@@ -12,5 +12,4 @@ layout: default
 [![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)  
 [![Geszler](/images/features/Geszler.png)](/geszler/)
 [![Kokeny](/images/features/Kokeny.png)](/kokeny/)
-
-### Of proef onze heerlijke [vleeswaren](/kolbasz)
+[![Vleeswaren](/images/features/vleeswaren.jpeg)](/kolbasz/)
