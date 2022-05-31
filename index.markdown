@@ -12,4 +12,7 @@ layout: default
 [![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)  
 [![Geszler](/images/features/Geszler.png)](/geszler/)
 [![Kokeny](/images/features/Kokeny.png)](/kokeny/)
+
+### Of neem een kijkje tussen onze exclusief geselecteerde vleeswaren:
+
 [![Vleeswaren](/images/features/vleeswaren.jpeg)](/kolbasz/)
